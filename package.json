@@ -9,7 +9,7 @@
     "test": "tap --no-coverage  --no-esm"
   },
   "dependencies": {
-    "fastify": "^2.10.0"
+    "fastify": "^3.0.0-rc.1"
   },
   "devDependencies": {
     "tap": "^14.10.2",
