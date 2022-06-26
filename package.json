@@ -1,5 +1,5 @@
 {
-  "name": "fastify-starter",
+  "name": "nodejs-basic",
   "version": "1.0.0",
   "description": "Get started using Fastify with this basic template.",
   "main": "src/index.js",
@@ -15,8 +15,19 @@
     "tap": "^14.10.2",
     "nodemon": "^2.0.1"
   },
-  "keywords": ["fastify", "node.js", "backend", "server", "http"],
+  "keywords": [
+    "fastify",
+    "node.js",
+    "backend",
+    "server",
+    "http"
+  ],
   "eslintConfig": {
     "sourceType": "script"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "author": "hnooor",
+  "license": "ISC"
 }
